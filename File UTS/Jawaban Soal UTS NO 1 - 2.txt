@@ -1,0 +1,20 @@
+Jawaban Soal UTS NO 1 - 2
+Nama	: Ilham Widodo
+Kelas	: IF22A
+NIM	: 22416255201249
+
+1. Framework adalah kerangka dasar atau seperti halnya rencana dalam suatu projek yang akan di bangun, sebagaimana rumah atau suatu bangunan yang akan dibangun pasti hal pertama yang akan di buat adalah sebuah kerangka.
+
+2.	1). Tema Proyek yang sedang di garap adalah aplikasi berbasis web di bidang apotek.
+	2). Anggota Projek :
+				Muhammad Wildan (Dokumentasi/Laporan)
+				Muhammad Rizky Ramadhan	(Database/Framework)
+				Ilham Widodo	(Frontend/Backend)
+	3). Masalah yang didapat dari hasil wawancara diantaranya :
+		- Perhitungan dalam gudang masih manual
+		- Perhitungan dalam transasksi masih manual
+		- Belum adanya komputerisasi dalam apotek tersebut.
+	    
+	    Solusi untuk menyelesaikan beberapa masalah tersebut  :
+		- Pembuatan fitur dalam sistem untuk menghitung stok gudang dan mengontrol jumlah stok
+		- Pembuatan fitur dalam sistem untuk pemesanan online 	 
